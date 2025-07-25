@@ -81,6 +81,7 @@ image_base_name,axis_row_index,x1,y1,x2,y2,score
 refs_001,0,100.0,50.0,100.0,200.0,1.0
 ```
 **Option B: Multiple CSVs**
+- Format: `refs_XXX.csv`
 ```csv
 axis_row_index,x1,y1,x2,y2,score
 0,100.0,50.0,100.0,200.0,1.0
